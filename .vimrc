@@ -28,6 +28,9 @@ set showcmd
 set incsearch
 set hlsearch
 
+" --- Remappings ---
+:imap kj <Esc>
+
 syntax on
 
 
