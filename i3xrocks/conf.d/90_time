@@ -1,0 +1,4 @@
+# Date Time
+[time]
+command=date '+%a | %d %b %y %H:%M'
+interval=60
