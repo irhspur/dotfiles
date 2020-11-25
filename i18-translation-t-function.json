@@ -1,0 +1,10 @@
+{
+	"i18 translation": {
+		"scope": "javascript,typescript,typescriptreact,javascriptreact",
+		"prefix": "tn",
+		"body": [
+			"{t('$1')}"
+		],
+		"description": "Translation template for i18"
+	}
+}
